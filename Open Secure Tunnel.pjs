@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{F8B08534-E204-4B50-B61D-4FE3D5926D84}">
+	<children>
+		<child name="MyHealth_App" key="{EC220080-805C-4440-950F-3A0B4034594D}" path="Open Secure Tunnel\MyHealth_App.mds" />
+		<child name="Open Secure Tunnel 2" key="{94E9201D-EF34-4AE6-8854-BB96C8F03D52}" path="Open Secure Tunnel 2\Open Secure Tunnel 2.mds" />
+	</children>
+	<testItems key="{276884F2-6973-4222-BDD5-7ECF20D75D8E}">
+		<children>
+			<testItem key="{EC220080-805C-4440-950F-3A0B4034594D}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{94E9201D-EF34-4AE6-8854-BB96C8F03D52}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{D161E589-75B6-4719-AEFC-B352621CD330}" />
+	<analysis key="{A3675054-17FE-4CD1-AD49-5C520800D93F}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
